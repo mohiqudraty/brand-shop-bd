@@ -36,7 +36,7 @@ This repository hosts an Online Product Management Platform aimed at simplifying
 
 ## Installation Guide
 
-1. Clone the repository: `git clone https://github.com/your-username/online-product-management.git`
+1. Clone the repository: `git clone https://github.com/mohiqudraty/brand-shop-bd.git`
 2. Install dependencies:
    - For NPM: `npm install`
 3. Configure environment variables:
