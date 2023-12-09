@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "question": "How can I update my iPhone to the latest iOS version?",
+    "answer": "To update your iPhone, go to Settings > General > Software Update. If an update is available, tap 'Download and Install' to update to the latest iOS version."
+  },
+  {
+    "id": 2,
+    "question": "What is the process to transfer data from my old iPhone to a new one?",
+    "answer": "You can use Apple's 'Quick Start' feature or perform a backup of your old iPhone to iCloud or iTunes, then restore the backup on your new iPhone during the setup process."
+  },
+  {
+    "id": 3,
+    "question": "How do I capture a screenshot on my Samsung Galaxy smartphone?",
+    "answer": "To take a screenshot on most Samsung Galaxy devices, simultaneously press the power button and volume down button for a moment. The screenshot will be saved in your gallery."
+  },
+  {
+    "id": 4,
+    "question": "How can I use Samsung DeX to connect my Samsung smartphone to a monitor?",
+    "answer": "Use a DeX cable or DeX Pad to connect your phone to a monitor. Your phone's screen will be displayed on the monitor, providing a desktop-like experience."
+  },
+  {
+    "id": 5,
+    "question": "How can I pair my Sony Bluetooth headphones with a smartphone or other device?",
+    "answer": "Turn on your Sony Bluetooth headphones and put them in pairing mode. On your device, go to Bluetooth settings, find the headphones, and select 'Pair.'"
+  }
+]
